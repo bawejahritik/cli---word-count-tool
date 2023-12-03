@@ -33,7 +33,7 @@ ccwc provides the following counts:
 ## How to Use
 
 1. Activate the virtual environment if not already activated: `source venv/bin/activate`
-2. Run the command: `py_wc <option> <file1>`
+2. Run the command: `ccwc <option> <file1>`
 3. Use stdin with pipes: `cat filename | ccwc -<option>`
 
 ## Sample Command
