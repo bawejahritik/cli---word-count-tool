@@ -1,0 +1,8 @@
+main.py
+setup.py
+word_count.egg-info/PKG-INFO
+word_count.egg-info/SOURCES.txt
+word_count.egg-info/dependency_links.txt
+word_count.egg-info/entry_points.txt
+word_count.egg-info/requires.txt
+word_count.egg-info/top_level.txt
